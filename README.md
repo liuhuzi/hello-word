@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 火星儿老师学习github
 ## 好友名单
 ### 李伯雄
